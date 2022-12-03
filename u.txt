@@ -1,0 +1,3 @@
+command:
+
+a,h,f,c,n,d,r,l,u,m,+,j,q,.,!,k,z,p,e,y,b,-,,,=,/,;,&,w.
